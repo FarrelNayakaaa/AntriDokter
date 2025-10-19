@@ -1,0 +1,48 @@
+<resources>
+    <!-- ✅ Warna utama dari palet baru -->
+    <color name="primary_blue">#AAB6FF</color>
+    <color name="primary_blue_dark">#8090FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="light_gray">#F2F2F2</color>
+    <color name="blue_500">#809BFF</color>
+    <color name="accent">#FF4081</color>
+
+    <!-- ✅ Warna bawaan Android / Material -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- ✅ Tambahan opsional untuk kompatibilitas UI -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- 🌿 Warna Ikon -->
+    <color name="green_100">#C8F2E0</color> <!-- Background Icon History -->
+    <color name="yellow_100">#FFF4B3</color> <!-- Background Icon Notify -->
+    <color name="blue_100_icon">#D8E1FF</color>
+
+    <color name="red">#F44336</color> <!-- Merah flat Google Material -->
+
+    <!-- Warna abu lembut untuk border dan background -->
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#E0E0E0</color>
+
+    <!-- Variasi biru untuk highlight dan efek tekan -->
+    <color name="blue_100">#E3F2FD</color>
+
+
+    <color name="blue_main">#4C84FF</color>
+    <color name="green_main">#27AE60</color>
+    <color name="gray_button">#BDBDBD</color>
+
+    <color name="blue_light">#AFC8FF</color>
+    <color name="green_light">#A4E8A2</color>
+    <color name="yellow_light">#F4E49E</color>
+</resources>
